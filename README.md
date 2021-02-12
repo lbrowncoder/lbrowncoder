@@ -1,7 +1,5 @@
-### Hi there 👋
+### Hi  👋
 
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... becoming a full stack developer.
 - 🌱 I’m currently learning ... Python
